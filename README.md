@@ -1,4 +1,5 @@
 # fzy.nvim
+## :warning: this repository was transferred to another owner: [sineto/fzy.nvim](https://github.com/sineto/fzy.nvim).
 [fzy][] is a very simple and **really** fast fuzzy text selector finder for 
 the terminal. It's a great tool to use with [rg][] and [ag][]. 
 This plugin allows us to use *fzy* integrated with [Neovim][].
